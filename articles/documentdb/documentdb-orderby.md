@@ -216,7 +216,7 @@ This will be supported with the availability of the  Dynamic Indexing Policies i
 
 **What are the current limitations of Order By?**
 
-Order By can be specified only against a numeric, string or Boolean property when it is range indexed with Max Precision (-1) indexing.
+Order By can be specified only against a property, either numeric or String when it is range indexed with the Maximum Precision (-1).
 
 You cannot perform the following:
  
